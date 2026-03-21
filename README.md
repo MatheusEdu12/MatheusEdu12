@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Matheus Eduardo
 
-**`Cientista de Dados`**
+**`Data Analyst | Analytics Engineer | Data Scientist`**
 
-Estou me pós-graduando em **Ciência de Dados** na **Universidade Tecnológica Federal do Paraná** e buscando aprimorar minhas habilidades em **Python, R, SQL, estatística, machine learning, visualização de dados** e outras tecnologias.
+Pós-graduando em **Ciência de Dados** na **Universidade Tecnológica Federal do Paraná**, buscando aprimorar minhas habilidades em **em todo o ciclo de dados, incluindo arquitetura, engenharia, machine learning, MLOps, BI** e outras tecnologias.
 
 <p align="left">
     <a href="https://br.linkedin.com/in/matheus-eduardo-315417261">
