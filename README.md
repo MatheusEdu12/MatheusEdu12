@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Matheus Eduardo
+# Matheus Eduardo
 
 **`Data Analyst | Analytics Engineer | Data Scientist`**
 
