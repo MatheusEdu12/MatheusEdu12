@@ -5,11 +5,18 @@
 Pós-graduando em **Ciência de Dados** na **Universidade Tecnológica Federal do Paraná**, buscando aprimorar minhas habilidades em **em todo o ciclo de dados, incluindo arquitetura, engenharia, machine learning, MLOps, BI** e outras tecnologias.
 
 <p align="left">
-    <a href="https://br.linkedin.com/in/matheus-eduardo-315417261">
+    <a href="https://br.linkedin.com/in/matheus-eduardo-lr" style="text-decoration: none;">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="mailto:matheuslrego7@gmail.com" style="text-decoration: none;">
+        <img 
+            alt="Email" 
+            title="Envie-me um email" 
+            src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
 </p>
@@ -44,20 +51,20 @@ Pós-graduando em **Ciência de Dados** na **Universidade Tecnológica Federal d
     alt="GitHub Stats" 
     height="200" 
     style="padding-right:10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MatheusEdu12&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=matheuseduardolr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusEdu12&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuseduardolr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
 
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusedu12/matheusedu12/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusedu12/matheusedu12/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/matheusedu12/matheusedu12/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheuseduardolr/matheuseduardolr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheuseduardolr/matheuseduardolr/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/matheuseduardolr/matheuseduardolr/output/github-contribution-grid-snake.svg">
 </picture>
